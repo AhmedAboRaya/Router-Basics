@@ -1,6 +1,7 @@
 import { RouterProvider } from 'react-router-dom'
 import Router from './Router'
-import Navbar from './Pages/Navbar'
+import Navbar from './Components/Navbar'
+import Login from './Components/Login'
 
 
 function App() {
