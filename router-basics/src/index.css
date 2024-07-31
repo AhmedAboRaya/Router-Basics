@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: rgb(62, 69, 102);
+}
+
+nav .active{
+    color: #3b82f6;
+}
